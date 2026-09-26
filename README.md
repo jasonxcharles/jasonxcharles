@@ -2,7 +2,7 @@
 - 🎓 College: Graduate from CUNY Brooklyn College class of 2025
 - 📫 How to reach me: jasonandrewcharles@gmail.com
 - 🌱 Pronouns: He/Him/His
-- ⚡ Fun fact: I run a video production company where I make short films & documentaries!
+- ⚡ Fun fact: I make short films & documentaries!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jason Andrew Charles) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Jasonandrewcharles@gmail.com) 
